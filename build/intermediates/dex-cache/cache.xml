@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Christian\Desktop\Practical\akazeex\app\build\intermediates\exploded-aar\akazeex\opencv\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5ce7d162af7ac9c7619af135d739e921e6601741">
+        <dex dex="C:\Users\Christian\Desktop\Practical\akazeex\app\build\intermediates\pre-dexed\arm7\debug\classes-c9cdbd924c55da6a778dd0fb95fbea5da38ea572.jar" />
+    </item>
+
+</items>
